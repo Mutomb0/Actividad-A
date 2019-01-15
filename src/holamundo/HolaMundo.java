@@ -15,7 +15,9 @@ public class HolaMundo {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Version 1.2");
+        System.out.println("Version 1.3");
+        System.out.println("Version 1.3 by Jose");
+        System.out.println("Version 1.3 by Jose");
     }
     
 }
