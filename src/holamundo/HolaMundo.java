@@ -18,6 +18,9 @@ public class HolaMundo {
         System.out.println("Version 1.2 by Maria");
         System.out.println("Version 1.3 by Maria");
         System.out.println("Version 1.4 by Maria");
+        System.out.println("Version 1.4");
+        System.out.println("Version 1.4 by Jose");
+        System.out.println("Version 1.4 by Jose");
     }
     
 }
